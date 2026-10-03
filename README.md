@@ -4,5 +4,7 @@ Seven bilingual songs. The fear of the Lord hates evil. Before His works, the Fa
 
 # Published
 Archive.org : https://archive.org/details/album-91-before-the-works-wisdom-built-her-house-main-cover.jpg
+
 Zenodo: https://doi.org/10.5281/zenodo.23118762
+
 Github : https://github.com/KJC-DNN/Album91_Before_the_Works_Wisdom_Built_Her_House/releases/tag/91.0.0
